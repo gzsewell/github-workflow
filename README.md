@@ -1,8 +1,2 @@
 # github-workflow
-
-<<<<<<< HEAD
-To improve is to change.
-=======
-There is nothing permanent, except change
-
-> > > > > > > main
+This is the same Read Me that we were working on. I deleted the message to start over. 
